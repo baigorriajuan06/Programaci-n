@@ -1,0 +1,7 @@
+C:\Users\msi\Downloads\C#\Videojuego\Videojuego\bin\Debug\Videojuego.exe.config
+C:\Users\msi\Downloads\C#\Videojuego\Videojuego\bin\Debug\Videojuego.exe
+C:\Users\msi\Downloads\C#\Videojuego\Videojuego\bin\Debug\Videojuego.pdb
+C:\Users\msi\Downloads\C#\Videojuego\Videojuego\obj\Debug\Videojuego.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\C#\Videojuego\Videojuego\obj\Debug\Videojuego.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\C#\Videojuego\Videojuego\obj\Debug\Videojuego.exe
+C:\Users\msi\Downloads\C#\Videojuego\Videojuego\obj\Debug\Videojuego.pdb

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\Downloads\\C#\\SistemaBancario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B5AD7-6B3D-415A-8CDC-E8AD79BBC4D3}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\msi\\downloads\\c#\\sistemabancario\\sistemabancario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B5AD7-6B3D-415A-8CDC-E8AD79BBC4D3}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B5AD7-6B3D-415A-8CDC-E8AD79BBC4D3}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\msi\\downloads\\c#\\sistemabancario\\sistemabancario\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B5AD7-6B3D-415A-8CDC-E8AD79BBC4D3}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B5AD7-6B3D-415A-8CDC-E8AD79BBC4D3}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\msi\\downloads\\c#\\sistemabancario\\sistemabancario\\cuentaplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B5AD7-6B3D-415A-8CDC-E8AD79BBC4D3}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\cuentaplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B5AD7-6B3D-415A-8CDC-E8AD79BBC4D3}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\msi\\downloads\\c#\\sistemabancario\\sistemabancario\\claseestandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B5AD7-6B3D-415A-8CDC-E8AD79BBC4D3}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\claseestandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B5AD7-6B3D-415A-8CDC-E8AD79BBC4D3}|SistemaBancario\\SistemaBancario.csproj|c:\\users\\msi\\downloads\\c#\\sistemabancario\\sistemabancario\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B5AD7-6B3D-415A-8CDC-E8AD79BBC4D3}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\SistemaBancario\\SistemaBancario\\Banco.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\Banco.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\SistemaBancario\\SistemaBancario\\Banco.cs",
+              "RelativeToolTip": "SistemaBancario\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:15:37.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaPlus.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\SistemaBancario\\SistemaBancario\\CuentaPlus.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\CuentaPlus.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\SistemaBancario\\SistemaBancario\\CuentaPlus.cs",
+              "RelativeToolTip": "SistemaBancario\\CuentaPlus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:14:13.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaseEstandar.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\SistemaBancario\\SistemaBancario\\ClaseEstandar.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\ClaseEstandar.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\SistemaBancario\\SistemaBancario\\ClaseEstandar.cs",
+              "RelativeToolTip": "SistemaBancario\\ClaseEstandar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:11:57.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\SistemaBancario\\SistemaBancario\\Cuenta.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\SistemaBancario\\SistemaBancario\\Cuenta.cs",
+              "RelativeToolTip": "SistemaBancario\\Cuenta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:10:09.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\SistemaBancario\\SistemaBancario\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\Program.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\SistemaBancario\\SistemaBancario\\Program.cs",
+              "RelativeToolTip": "SistemaBancario\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:09:46.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

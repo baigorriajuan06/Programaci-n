@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\Downloads\\C#\\Ejercicio 14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4954202-EC16-4584-B618-80A8B88301A2}|Ejercicio 14\\Ejercicio 14.csproj|c:\\users\\msi\\downloads\\c#\\ejercicio 14\\ejercicio 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4954202-EC16-4584-B618-80A8B88301A2}|Ejercicio 14\\Ejercicio 14.csproj|solutionrelative:ejercicio 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\Ejercicio 14\\Ejercicio 14\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio 14\\Program.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\Ejercicio 14\\Ejercicio 14\\Program.cs",
+              "RelativeToolTip": "Ejercicio 14\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:02:54.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

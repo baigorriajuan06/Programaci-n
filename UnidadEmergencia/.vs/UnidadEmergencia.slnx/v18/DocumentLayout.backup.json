@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B008E1B-DD3B-4E69-BFD9-FF5F79AC2063}|Program\\Program.csproj|c:\\users\\msi\\downloads\\c#\\unidademergencia\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B008E1B-DD3B-4E69-BFD9-FF5F79AC2063}|Program\\Program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1972574-A028-495E-828E-A804A257B3EE}|UnidadEmergencia\\SistemaEmergencias,Biblioteca.csproj|c:\\users\\msi\\downloads\\c#\\unidademergencia\\unidademergencia\\unidademergencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1972574-A028-495E-828E-A804A257B3EE}|UnidadEmergencia\\SistemaEmergencias,Biblioteca.csproj|solutionrelative:unidademergencia\\unidademergencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1972574-A028-495E-828E-A804A257B3EE}|UnidadEmergencia\\SistemaEmergencias,Biblioteca.csproj|c:\\users\\msi\\downloads\\c#\\unidademergencia\\unidademergencia\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1972574-A028-495E-828E-A804A257B3EE}|UnidadEmergencia\\SistemaEmergencias,Biblioteca.csproj|solutionrelative:unidademergencia\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1972574-A028-495E-828E-A804A257B3EE}|UnidadEmergencia\\SistemaEmergencias,Biblioteca.csproj|c:\\users\\msi\\downloads\\c#\\unidademergencia\\unidademergencia\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1972574-A028-495E-828E-A804A257B3EE}|UnidadEmergencia\\SistemaEmergencias,Biblioteca.csproj|solutionrelative:unidademergencia\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1972574-A028-495E-828E-A804A257B3EE}|UnidadEmergencia\\SistemaEmergencias,Biblioteca.csproj|c:\\users\\msi\\downloads\\c#\\unidademergencia\\unidademergencia\\ambulancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1972574-A028-495E-828E-A804A257B3EE}|UnidadEmergencia\\SistemaEmergencias,Biblioteca.csproj|solutionrelative:unidademergencia\\ambulancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1972574-A028-495E-828E-A804A257B3EE}|UnidadEmergencia\\SistemaEmergencias,Biblioteca.csproj|c:\\users\\msi\\downloads\\c#\\unidademergencia\\unidademergencia\\camionbomberos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1972574-A028-495E-828E-A804A257B3EE}|UnidadEmergencia\\SistemaEmergencias,Biblioteca.csproj|solutionrelative:unidademergencia\\camionbomberos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program\\Program.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\Program\\Program.cs",
+              "RelativeToolTip": "Program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:43:43.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CamionBomberos.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\UnidadEmergencia\\CamionBomberos.cs",
+              "RelativeDocumentMoniker": "UnidadEmergencia\\CamionBomberos.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\UnidadEmergencia\\CamionBomberos.cs",
+              "RelativeToolTip": "UnidadEmergencia\\CamionBomberos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:40:40.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ambulancia.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\UnidadEmergencia\\Ambulancia.cs",
+              "RelativeDocumentMoniker": "UnidadEmergencia\\Ambulancia.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\UnidadEmergencia\\Ambulancia.cs",
+              "RelativeToolTip": "UnidadEmergencia\\Ambulancia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:32:25.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\UnidadEmergencia\\Paciente.cs",
+              "RelativeDocumentMoniker": "UnidadEmergencia\\Paciente.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\UnidadEmergencia\\Paciente.cs",
+              "RelativeToolTip": "UnidadEmergencia\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:31:30.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\UnidadEmergencia\\Radio.cs",
+              "RelativeDocumentMoniker": "UnidadEmergencia\\Radio.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\UnidadEmergencia\\Radio.cs",
+              "RelativeToolTip": "UnidadEmergencia\\Radio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:30:32.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnidadEmergencia.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\UnidadEmergencia\\UnidadEmergencia.cs",
+              "RelativeDocumentMoniker": "UnidadEmergencia\\UnidadEmergencia.cs",
+              "ToolTip": "C:\\Users\\msi\\Downloads\\C#\\UnidadEmergencia\\UnidadEmergencia\\UnidadEmergencia.cs",
+              "RelativeToolTip": "UnidadEmergencia\\UnidadEmergencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:27:15.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

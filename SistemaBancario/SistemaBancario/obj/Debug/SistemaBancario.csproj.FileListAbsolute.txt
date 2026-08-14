@@ -1,0 +1,7 @@
+C:\Users\msi\Downloads\C#\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+C:\Users\msi\Downloads\C#\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe
+C:\Users\msi\Downloads\C#\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.pdb
+C:\Users\msi\Downloads\C#\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\C#\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\C#\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe
+C:\Users\msi\Downloads\C#\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.pdb

@@ -1,0 +1,7 @@
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio 7.pdb

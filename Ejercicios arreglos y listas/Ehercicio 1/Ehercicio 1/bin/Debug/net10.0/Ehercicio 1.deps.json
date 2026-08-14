@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ehercicio 1/1.0.0": {
+        "runtime": {
+          "Ehercicio 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ehercicio 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

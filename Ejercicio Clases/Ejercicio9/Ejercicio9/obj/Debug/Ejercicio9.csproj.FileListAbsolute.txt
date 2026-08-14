@@ -1,0 +1,7 @@
+C:\Users\msi\Downloads\C#\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+C:\Users\msi\Downloads\C#\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe
+C:\Users\msi\Downloads\C#\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.pdb
+C:\Users\msi\Downloads\C#\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\C#\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\C#\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.exe
+C:\Users\msi\Downloads\C#\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.pdb

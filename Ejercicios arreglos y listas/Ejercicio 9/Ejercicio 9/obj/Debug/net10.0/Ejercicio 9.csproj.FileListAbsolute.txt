@@ -1,0 +1,28 @@
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\bin\Debug\net10.0\Ejercicio 9.exe
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\bin\Debug\net10.0\Ejercicio 9.deps.json
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\bin\Debug\net10.0\Ejercicio 9.runtimeconfig.json
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\bin\Debug\net10.0\Ejercicio 9.dll
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\bin\Debug\net10.0\Ejercicio 9.pdb
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.AssemblyInfoInputs.cache
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.AssemblyInfo.cs
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.dll
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\refint\Ejercicio 9.dll
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.pdb
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.genruntimeconfig.cache
+C:\Users\msi\Downloads\C#\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\ref\Ejercicio 9.dll
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\bin\Debug\net10.0\Ejercicio 9.exe
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\bin\Debug\net10.0\Ejercicio 9.deps.json
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\bin\Debug\net10.0\Ejercicio 9.runtimeconfig.json
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\bin\Debug\net10.0\Ejercicio 9.dll
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\bin\Debug\net10.0\Ejercicio 9.pdb
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.AssemblyInfoInputs.cache
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.AssemblyInfo.cs
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.dll
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\refint\Ejercicio 9.dll
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.pdb
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\Ejercicio 9.genruntimeconfig.cache
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 9\Ejercicio 9\obj\Debug\net10.0\ref\Ejercicio 9.dll

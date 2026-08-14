@@ -1,0 +1,6 @@
+C:\Users\msi\Downloads\C#\UnidadEmergencia\UnidadEmergencia\bin\Debug\UnidadEmergencia.dll
+C:\Users\msi\Downloads\C#\UnidadEmergencia\UnidadEmergencia\bin\Debug\UnidadEmergencia.pdb
+C:\Users\msi\Downloads\C#\UnidadEmergencia\UnidadEmergencia\obj\Debug\SistemaEmergencias,Biblioteca.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\C#\UnidadEmergencia\UnidadEmergencia\obj\Debug\SistemaEmergencias,Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\C#\UnidadEmergencia\UnidadEmergencia\obj\Debug\UnidadEmergencia.dll
+C:\Users\msi\Downloads\C#\UnidadEmergencia\UnidadEmergencia\obj\Debug\UnidadEmergencia.pdb

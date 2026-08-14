@@ -1,0 +1,28 @@
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\bin\Debug\net10.0\Ejercicio 7.exe
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\bin\Debug\net10.0\Ejercicio 7.deps.json
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\bin\Debug\net10.0\Ejercicio 7.runtimeconfig.json
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\bin\Debug\net10.0\Ejercicio 7.dll
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\bin\Debug\net10.0\Ejercicio 7.pdb
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.AssemblyInfoInputs.cache
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.AssemblyInfo.cs
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.dll
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\refint\Ejercicio 7.dll
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.pdb
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.genruntimeconfig.cache
+C:\Users\msi\Downloads\C#\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\ref\Ejercicio 7.dll
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\bin\Debug\net10.0\Ejercicio 7.exe
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\bin\Debug\net10.0\Ejercicio 7.deps.json
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\bin\Debug\net10.0\Ejercicio 7.runtimeconfig.json
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\bin\Debug\net10.0\Ejercicio 7.dll
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\bin\Debug\net10.0\Ejercicio 7.pdb
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.AssemblyInfoInputs.cache
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.AssemblyInfo.cs
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.dll
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\refint\Ejercicio 7.dll
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.pdb
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\Ejercicio 7.genruntimeconfig.cache
+C:\Users\msi\Downloads\C#\Ejercicios arreglos y listas\Ejercicio 7\Ejercicio 7\obj\Debug\net10.0\ref\Ejercicio 7.dll

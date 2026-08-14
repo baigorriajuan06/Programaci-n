@@ -1,0 +1,10 @@
+C:\Users\msi\Downloads\C#\EjercicioLibreria2\EjercicioLibreria2\bin\Debug\EjercicioLibreria2.exe.config
+C:\Users\msi\Downloads\C#\EjercicioLibreria2\EjercicioLibreria2\bin\Debug\EjercicioLibreria2.exe
+C:\Users\msi\Downloads\C#\EjercicioLibreria2\EjercicioLibreria2\bin\Debug\EjercicioLibreria2.pdb
+C:\Users\msi\Downloads\C#\EjercicioLibreria2\EjercicioLibreria2\bin\Debug\ClassLibrary1.dll
+C:\Users\msi\Downloads\C#\EjercicioLibreria2\EjercicioLibreria2\bin\Debug\ClassLibrary1.pdb
+C:\Users\msi\Downloads\C#\EjercicioLibreria2\EjercicioLibreria2\obj\Debug\EjercicioLibreria2.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\C#\EjercicioLibreria2\EjercicioLibreria2\obj\Debug\EjercicioLibreria2.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\C#\EjercicioLibreria2\EjercicioLibreria2\obj\Debug\Ejercici.A7415AB3.Up2Date
+C:\Users\msi\Downloads\C#\EjercicioLibreria2\EjercicioLibreria2\obj\Debug\EjercicioLibreria2.exe
+C:\Users\msi\Downloads\C#\EjercicioLibreria2\EjercicioLibreria2\obj\Debug\EjercicioLibreria2.pdb

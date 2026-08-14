@@ -1,0 +1,10 @@
+C:\Users\msi\Downloads\C#\Ejercicio5\Program\bin\Debug\Program.exe.config
+C:\Users\msi\Downloads\C#\Ejercicio5\Program\bin\Debug\Program.exe
+C:\Users\msi\Downloads\C#\Ejercicio5\Program\bin\Debug\Program.pdb
+C:\Users\msi\Downloads\C#\Ejercicio5\Program\bin\Debug\Ejercicio5.dll
+C:\Users\msi\Downloads\C#\Ejercicio5\Program\bin\Debug\Ejercicio5.pdb
+C:\Users\msi\Downloads\C#\Ejercicio5\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\C#\Ejercicio5\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\C#\Ejercicio5\Program\obj\Debug\Program.csproj.Up2Date
+C:\Users\msi\Downloads\C#\Ejercicio5\Program\obj\Debug\Program.exe
+C:\Users\msi\Downloads\C#\Ejercicio5\Program\obj\Debug\Program.pdb
