@@ -1,5 +1,6 @@
 using AccesoDatos.Data;
 using AccesoDatos.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace AccesoDatos.Repositories;
 
@@ -18,6 +19,7 @@ public class AutorRepository
         using var context = new BibliotecaContext();
 
         return context.Autores
+            .AsNoTracking()
             .OrderBy(autor => autor.Nombre)
             .ToList();
     }
@@ -26,6 +28,25 @@ public class AutorRepository
     {
         using var context = new BibliotecaContext();
 
-        return context.Autores.Find(id);
+        return context.Autores
+            .AsNoTracking()
+            .FirstOrDefault(autor => autor.Id == id);
+    }
+
+    public bool ModificarNombre(int id, string nuevoNombre)
+    {
+        using var context = new BibliotecaContext();
+
+        Autor? autor = context.Autores.Find(id);
+
+        if (autor == null)
+        {
+            return false;
+        }
+
+        autor.Nombre = nuevoNombre;
+        context.SaveChanges();
+
+        return true;
     }
 }
